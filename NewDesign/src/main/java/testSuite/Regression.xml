@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<!--  <!DOCTYPE suite SYSTEM "http://testing.org/testing-1.0.dtd">-->
+<suite name="Regression">
+	<test name="UI_table_Validation">
+		<classes>
+			<class name="Maven.NewDesign.UI_table_Validation"/>
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->
